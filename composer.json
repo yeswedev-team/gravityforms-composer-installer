@@ -1,13 +1,13 @@
 {
-  "name": "gotoandplay/gravityforms-composer-installer",
+  "name": "yeswedev-team/gravityforms-composer-installer",
   "description": "A composer install helper for Gravity Forms",
   "type": "composer-plugin",
   "license": "MIT",
   "authors": [
     {
-      "name": "Mihkel Eidast",
-      "email": "mihkel@play.ee",
-      "homepage": "https://play.ee"
+      "name": "Charles Dupoiron",
+      "email": "contact@yeswedev.bzh",
+      "homepage": "https://yeswedev.bzh"
     }
   ],
   "keywords": [
