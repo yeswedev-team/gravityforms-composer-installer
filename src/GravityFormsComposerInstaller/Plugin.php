@@ -14,7 +14,7 @@ class Plugin extends \FFraenz\PrivateComposerInstaller\Plugin implements PluginI
     /**
      * Gravity Forms Plugin API endpoint.
      */
-    const GRAVITY_FORMS_API = 'www.gravityhelp.com';
+    const GRAVITY_FORMS_API = 'gravityapi.com';
 
     /**
      * Fulfill package URL placeholders before downloading the package.
